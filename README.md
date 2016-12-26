@@ -15,7 +15,8 @@ with the index page.
 
 ***
 
-If you do not have a working web application server, I have provided my xampp server to quickly install.  
+If you do not have a working web application server, you can use my apache xampp server to quickly install.  
+https://drive.google.com/file/d/0BwRW7S_PcIt7S2JGQXZXYnBGMVU/view?usp=sharing
 Please use these steps:
 
 1. Run the setup_xampp.bat to initialize the setup for the apache server.
